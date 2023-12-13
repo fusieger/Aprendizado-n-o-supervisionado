@@ -1,0 +1,16 @@
+Propriedades da Imagem Original:
+{'altura': 1080, 'largura': 1920, 'total_pixels': 2073600, 'media_cor': array([112.6964728 , 129.24446904, 138.84554253]), 'desvio_padrao_cor': array([79.13908449, 74.23213602, 71.50221877]), 'quantidade_cores': 311169}
+Propriedades da Imagem após k-médias (k=2):
+{'altura': 1080, 'largura': 1920, 'total_pixels': 2073600, 'media_cor': array([112.20231481, 128.9645978 , 138.42196759]), 'desvio_padrao_cor': array([72.03555446, 65.28222123, 61.23022129]), 'quantidade_cores': 2}
+Propriedades da Imagem após k-médias (k=4):
+{'altura': 1080, 'largura': 1920, 'total_pixels': 2073600, 'media_cor': array([112.00130257, 128.72933642, 138.3151794 ]), 'desvio_padrao_cor': array([76.96596952, 72.10149819, 69.07646029]), 'quantidade_cores': 4}
+Propriedades da Imagem após k-médias (k=8):
+{'altura': 1080, 'largura': 1920, 'total_pixels': 2073600, 'media_cor': array([112.46400222, 128.66441406, 138.48779417]), 'desvio_padrao_cor': array([77.98380096, 73.42635413, 70.51974419]), 'quantidade_cores': 8}
+Propriedades da Imagem após k-médias (k=16):
+{'altura': 1080, 'largura': 1920, 'total_pixels': 2073600, 'media_cor': array([112.39893808, 128.78407215, 138.48844811]), 'desvio_padrao_cor': array([78.93203678, 73.85289503, 70.98180813]), 'quantidade_cores': 16}
+Propriedades da Imagem após k-médias (k=32):
+{'altura': 1080, 'largura': 1920, 'total_pixels': 2073600, 'media_cor': array([112.2699947 , 128.93175058, 138.50535783]), 'desvio_padrao_cor': array([79.07459653, 74.18400809, 71.38751295]), 'quantidade_cores': 32}
+Propriedades da Imagem após k-médias (k=64):
+{'altura': 1080, 'largura': 1920, 'total_pixels': 2073600, 'media_cor': array([112.32199846, 128.84864487, 138.47133005]), 'desvio_padrao_cor': array([79.1866279 , 74.26823191, 71.45247969]), 'quantidade_cores': 64}
+Propriedades da Imagem após k-médias (k=128):
+{'altura': 1080, 'largura': 1920, 'total_pixels': 2073600, 'media_cor': array([112.29843846, 128.81760706, 138.40320168]), 'desvio_padrao_cor': array([79.15295237, 74.28016828, 71.49412418]), 'quantidade_cores': 128}
